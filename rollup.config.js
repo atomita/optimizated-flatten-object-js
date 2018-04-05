@@ -5,7 +5,7 @@ export default {
   output: {
     file: 'dist/flatten-object.js',
     format: 'umd',
-    name: 'flattenObject',
+    name: 'optimizatedFlattenObject',
     sourceMap: true,
   },
   plugins: [typescript()],
